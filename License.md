@@ -1,4 +1,4 @@
-PassGen 0.3 License
+PassGen 1.3 License
 
 Copyright (c) 2024 H1tiz
 
