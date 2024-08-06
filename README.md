@@ -1,4 +1,4 @@
-PassGen 0.3
+PassGen 1.3
 
 This is a password generator, actually supporting only
 linux terminals. Actually, it gen passwords for Google,
